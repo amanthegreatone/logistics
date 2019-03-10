@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const controlPanel = require('../lib/controlPanel')
+
+controlPanel.execute('Hello World')
